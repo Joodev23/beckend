@@ -31,8 +31,8 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptla_J2jTfXjDWMq2ABws69aqSUTiH4hEzjIdh9pZq8f7Vas";
-const capikey = "ptlc_ewtiIqSGMo6dPFX3DHDUtY4iDsPVpfOeBwaLtMCZAtZ";
+const apikey = "ptlc_xnU77ND3STp01jeh49ikjVzxc4GiKvswjUp71uK5FP9";
+const capikey = "ptlc_xnU77ND3STp01jeh49ikjVzxc4GiKvswjUp71uK5FP9";
 const domain = "https://mikazu.tokopanelku.my.id";
 const nestid = "5";
 const egg = "15";

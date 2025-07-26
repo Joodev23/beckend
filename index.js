@@ -31,8 +31,8 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_CUf68hdyVBmqBWwZBTYHM8bx396PjiUvKuK7CJOoGYB";
-const capikey = "ptla_A1V3KKDd4yYB8ogKy1gltNKKf4SL5MDJW8QXTlrlHck";
+const apikey = "ptlc_YiLQTQmjDo4meBF7qI67pamX1gNYxa58EjaYPZLm6uD";
+const capikey = "ptla_WtbQLEXjZjacjn8xZmm7i5de3g79iZ2grwlOVx1zg9T";
 const domain = "https://piatu-yang-rusuh.privatserver.my.id";
 const nestid = "5";
 const egg = "15";

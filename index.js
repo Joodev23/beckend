@@ -31,9 +31,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_YiLQTQmjDo4meBF7qI67pamX1gNYxa58EjaYPZLm6uD";
-const capikey = "ptla_WtbQLEXjZjacjn8xZmm7i5de3g79iZ2grwlOVx1zg9T";
-const domain = "https://piatu-yang-rusuh.privatserver.my.id";
+const apikey = "ptlc_IhIxc50PwtRNFPkxRXX0unOvIkSoW4n1Y5Vm6qofS2H";
+const capikey = "ptla_E5EugnA7lUusAjGe9fm83WV9gkhL9x4JL3pIBcfHsvY";
+const domain = "https://pallzzxxx.tonline.biz.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";

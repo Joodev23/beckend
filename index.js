@@ -33,7 +33,7 @@ app.use(express.static(path.join(__dirname)));
 
 const apikey = "ptlc_CD6JkJBiRFecXTMlHTxYkOZY2XghFrLsDvixIvvXpFT";
 const capikey = "ptla_tNA5DcjzA5SwpgwEklaTchMwhxjxXHFYHejDl9wJcNR";
-const domain = "https://joocloud.jerzztech.my.id/";
+const domain = "https://joocloud.jerzztech.my.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";

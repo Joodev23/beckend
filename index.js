@@ -31,9 +31,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_IhIxc50PwtRNFPkxRXX0unOvIkSoW4n1Y5Vm6qofS2H";
-const capikey = "ptla_E5EugnA7lUusAjGe9fm83WV9gkhL9x4JL3pIBcfHsvY";
-const domain = "https://pallzzxxx.tonline.biz.id";
+const apikey = "ptlc_CD6JkJBiRFecXTMlHTxYkOZY2XghFrLsDvixIvvXpFT";
+const capikey = "ptla_tNA5DcjzA5SwpgwEklaTchMwhxjxXHFYHejDl9wJcNR";
+const domain = "https://joocloud.jerzztech.my.id/";
 const nestid = "5";
 const egg = "15";
 const loc = "1";
